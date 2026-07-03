@@ -1,5 +1,4 @@
-import { certificates } from "../data/certifications";
-
+import { certificates } from "../data/Certifications";
 function Certifications() {
   return (
     <section
