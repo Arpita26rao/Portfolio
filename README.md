@@ -98,7 +98,7 @@ A responsive dental clinic website with appointment booking and an admin dashboa
 
 ## 📬 Contact
 
-📧 Email: *(Add your email)*
+📧 Email: *(raoarpita316@gmail.com)*
 
 🔗 LinkedIn:
 https://linkedin.com/in/arpita-rao-1b018b277
