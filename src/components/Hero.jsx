@@ -90,7 +90,7 @@ function Hero() {
           className="flex justify-center"
         >
           <img
-            src="/raoarpita.jpg"
+            src="/ARPITARAO.jpeg"
             alt="Arpita Rao"
             className="w-80 h-80 md:w-96 md:h-96 rounded-full object-cover border-4 border-purple-500 shadow-[0_0_40px_rgba(168,85,247,0.5)]"
           />
